@@ -26,6 +26,7 @@ vehicle owners, workshops and automotive parts distributors.
 Explore the exterior conversion kit for BMW X5 E70 upgrade projects. Confirm vehicle compatibility, kit contents and installation requirements before ordering.
 
 [View BMW X5 E70 to G05 Conversion Kit](https://tangmacraftsman.com/shop/bmw-x5-e70-to-g05-conversion-kit/)
+https://github.com/werazire-tech/werazire-tech/blob/main/8b.png
 
 ### BMW Carbon Fiber Steering Wheel
 
