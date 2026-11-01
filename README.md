@@ -1,16 +1,35 @@
-## Hi there 👋
+# Tangma Craftsman
 
-<!--
-**werazire-tech/werazire-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**TANGMA CRAFTSMAN TECHNOLOGY CO., LIMITED**
 
-Here are some ideas to get you started:
+We supply automotive exterior conversion kits, headlights,
+taillights, steering wheels and brake upgrade kits for
+vehicle owners, workshops and automotive parts distributors.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Our Products
+
+- Exterior body conversion kits
+- Front and rear bumper assemblies
+- Hoods, fenders, grilles and exterior trim
+- Headlights and taillights
+- Steering wheels
+- Brake upgrade kits
+
+## Official Websites
+
+- [Europe — Tangma Craftsman](https://tangmacraftsman.com/)
+- [North America — Tangma Craftsman](https://tangmacraftsmans.com/)
+
+## Fitment and Installation
+
+Before ordering, please confirm your vehicle model, year
+and configuration with our team.
+
+Kit contents and installation requirements vary by product.
+Please confirm panel modifications, wiring requirements
+and included accessories for your specific kit.
+
+## Business Inquiries
+
+For product information, wholesale inquiries and shipping
+quotations, please contact us through our official websites.
